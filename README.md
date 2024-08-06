@@ -1,5 +1,13 @@
 # Bike Sharing Analysis
 
+# Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#Data-Preparation)
+- [Data Scope](#Data-Scope)
+
+
 ## Project Overview:
 
 This data analysis project aims to analyze Divvy bike-sharing data to understand user behavior, identify trends, and provide actionable insights to improve service efficiency and user experience. The analysis focuses on various dimensions such as rider types, bicycle types, and start locations over a specified period (April 2023 to March 2024).
