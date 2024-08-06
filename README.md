@@ -4,8 +4,11 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Preparation](#Data-Preparation)
-- [Data Scope](#Data-Scope)
+- [Data Preparation](#data-Preparation)
+- [Data Scope](#data-Scope)
+- [Key Metrics](#key-Metrics)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
 
 
 ## Project Overview:
