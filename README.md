@@ -4,9 +4,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Preparation](#data-Preparation)
-- [Data Scope](#data-Scope)
-- [Key Metrics](#key-Metrics)
+- [Data Preparation](#data-preparation)
+- [Data Scope](#data-scope)
+- [Key Metrics](#key-metrics)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 
@@ -23,7 +23,7 @@ The primary dataset used for this analysis is the Bike Share Data file by Damion
 - Power Query - data manipulation and calculations.
 - PowerBI - Creating reports.
 
-## Data Cleaning/Preparation:
+## Data Preparation:
 In the initial data preparation phase, we performed the following tasks:
 1. Load All Monthly CSV Files :                                                                                        
    Begin by loading all 12 CSV files, each representing a month of data, into Power BI.
