@@ -6,6 +6,16 @@ This data analysis project aims to analyze Divvy bike-sharing data to understand
 
 ### Data Sources
 
-The primary dataset used for this analysis is the Bike Share Data file by Damion from kaggle (https://www.kaggle.com/datasets/derescio/bike-share-data)
+The primary dataset used for this analysis is the Bike Share Data file by Damion from kaggle [Download here](https://www.kaggle.com/datasets/derescio/bike-share-data)
+
+### Tools
+- Power Query - data manipulation and calculations
+- PowerBI - Creating reports
+
+### Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
+1. Load All Monthly CSV Files                                                                                         
+   Begin by loading all 12 CSV files, each representing a month of data, into Power BI.
+2. 
 
 ### Recommendations
