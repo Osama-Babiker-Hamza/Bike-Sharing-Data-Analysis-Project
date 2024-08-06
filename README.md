@@ -14,6 +14,7 @@
 ## Project Overview:
 
 This data analysis project aims to analyze Divvy bike-sharing data to understand user behavior, identify trends, and provide actionable insights to improve service efficiency and user experience. The analysis focuses on various dimensions such as rider types, bicycle types, and start locations over a specified period (April 2023 to March 2024).
+[PowerBI Report](https://app.powerbi.com/reportEmbed?reportId=a331c98c-8426-463f-ad69-7600b8c0c370&autoAuth=true&ctid=4adac46f-e990-40b9-9cf4-7b01e7263a82)
 
 ## Data Sources:
 
